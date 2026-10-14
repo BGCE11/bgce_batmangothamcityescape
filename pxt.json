@@ -1,5 +1,6 @@
 {
     "name": "BGCE_BatmanGothamCityEscape",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
